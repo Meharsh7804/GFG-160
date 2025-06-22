@@ -26,6 +26,10 @@ Each folder contains the same problem solved in:
 | Day | Problem Link | C++ | Java | Python |
 |-----|--------------|-----|------|--------|
 | 01  | [Second Largest](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735) | ✅ | ✅ | ✅ |
+| 02  | [Move zeroes to end](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751) | ✅ | ✅ | ✅ |
+| 03  | [Reverse Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array) | ✅ | ✅ | ✅ |
+| 04  | [Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621) | ✅ | ✅ | ✅ |
+| 05  | [Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226) | ✅ | ✅ | ✅ |
 | ... | ... | ... | ... | ... |
 
 > 📌 *Progress might take up to 2 hours to reflect on GFG profile.*
